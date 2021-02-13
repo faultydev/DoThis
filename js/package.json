@@ -1,0 +1,11 @@
+{
+  "name": "dt_js",
+  "version": "1.0.0",
+  "description": "DoThisJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "faultydev",
+  "license": "MIT"
+}
